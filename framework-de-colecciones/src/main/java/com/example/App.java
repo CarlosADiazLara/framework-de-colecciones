@@ -70,7 +70,9 @@ public class App {
     	// git add . --> agregalo todo a la zona
     	// git status --> de nuevo para comprobar
     	// git log --> Aparecen los repositorios
-    	// git commit -m "antes de crear rama creando colecciones"
+    	// git commit -m "antes de crear rama creando colecciones" --> crea el commit
+    	// git branch creando_colecciones --> crea la rama
+    	// git switch creando_colecciones --> Cambia a esa rama, puedes usar tabulador para autocompletar
     	
     
     }
